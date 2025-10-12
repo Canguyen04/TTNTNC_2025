@@ -78,11 +78,11 @@
 
 | Tuần | Nội dung | Trạng thái | Ghi chú |
 | ------ | ------ | ------ | ------ |
-| WEEK 1 (01/09/2025 - 07/09/2025) |  | ⏳ Chưa bắt đầu | ... |
-| WEEK 2 (08/09/2025 - 14/09/2025) |  | ⏳ Chưa bắt đầu | ... |
-| WEEK 3 (15/09/2025 - 21/09/2025) |  | ✅ Hoàn thành | Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân |
-| WEEK 4 (22/09/2025 - 28/09/2025) |  | ✅ Hoàn thành | Đã nộp báo cáo nhóm  nhưng chưa nộp trên GGClass do lỗi hệ thống + Đăng bài làm trên github nhóm và cá nhân |
-| WEEK 5 (29/09/2025 - 05/10/2025) |  | ✅ Hoàn thành |  |
+| WEEK 1 (01/09/2025 - 07/09/2025) | ... | ⏳ Chưa bắt đầu | ... |
+| WEEK 2 (08/09/2025 - 14/09/2025) | ... | ⏳ Chưa bắt đầu | ... |
+| WEEK 3 (15/09/2025 - 21/09/2025) | - Ex1: Tìm hiểu và trả lời câu hỏi trong phần 1 + 2 + 3 (nhóm) - Làm tổng hợp nội dung | ✅ Hoàn thành | Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân |
+| WEEK 4 (22/09/2025 - 28/09/2025) | - Lab02: Search (tt) | ✅ Hoàn thành | Đã nộp báo cáo nhóm  nhưng chưa nộp trên GGClass do lỗi hệ thống + Đăng bài làm trên github nhóm và cá nhân |
+| WEEK 5 (29/09/2025 - 05/10/2025) | - Lab03: Local Search | ✅ Hoàn thành |  |
 
 
 <!-- PROCESS_END -->"
