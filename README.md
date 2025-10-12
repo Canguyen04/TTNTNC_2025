@@ -18,6 +18,7 @@
 <!-- STRUCTURE_START -->
 
 ```
+├── Bài toán N.docx
 ├── README.md
 ├── process.json
 ├── update_readme.py
@@ -52,6 +53,7 @@
 │       ├── lab02_02_search-20250928T141051Z-1-001.zip
 │       └── lab02_NguyenKhaiCa_3122410035.zip
 └── w5
+    ├── 153-309-1-SM.pdf
     └── lab03 - local_search
         ├── L_maze.txt
         ├── Maze_Example_LocalSearch.html
@@ -60,12 +62,12 @@
         ├── Simulated_Annealing_Schedules.Rmd
         ├── Simulated_Annealing_Schedules.html
         ├── drive-download-20251009T145131Z-1-001.zip
+        ├── lab03.docx
         ├── maze_helper.py
         ├── n_queens.html
         ├── n_queens.ipynb
         ├── n_queens_fast_conflict_calculation_with_numba.ipynb
-        ├── traveling_salesman_problem.ipynb
-        └── traveling_salesman_problem_example_2.ipynb
+        └── traveling_salesman_problem.ipynb
 ```
 
 <!-- STRUCTURE_END -->
@@ -80,7 +82,7 @@
 | WEEK 2 (08/09/2025 - 14/09/2025) |  | ⏳ Chưa bắt đầu | ... |
 | WEEK 3 (15/09/2025 - 21/09/2025) |  | ✅ Hoàn thành | Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân |
 | WEEK 4 (22/09/2025 - 28/09/2025) |  | ✅ Hoàn thành | Đã nộp báo cáo nhóm  nhưng chưa nộp trên GGClass do lỗi hệ thống + Đăng bài làm trên github nhóm và cá nhân |
-| WEEK 5 (29/09/2025 - 05/10/2025) |  | ⏳ Đang làm | ... |
+| WEEK 5 (29/09/2025 - 05/10/2025) |  | ✅ Hoàn thành |  |
 
 
 <!-- PROCESS_END -->"
