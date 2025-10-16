@@ -1,33 +1,38 @@
 [
-    {
-      "week": "WEEK 1 (01/09/2025 - 07/09/2025)",
-      "task": "...",
-      "status": "⏳ Chưa bắt đầu",
-      "note": "..."
-    },
-    {
-      "week": "WEEK 2 (08/09/2025 - 14/09/2025)",
-      "task": "...",
-      "status": "⏳ Chưa bắt đầu",
-      "note": "..."
-    },
-    {
-      "week": "WEEK 3 (15/09/2025 - 21/09/2025)",
-      "task": "- Ex1: Tìm hiểu và trả lời câu hỏi trong phần 1 + 2 + 3 (nhóm) - Làm tổng hợp nội dung",
-      "status": "✅ Hoàn thành",
-      "note": "Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân"
-    },
-    {
-      "week": "WEEK 4 (22/09/2025 - 28/09/2025)",
-      "task": "- Lab02: Search (tt)",
-      "status": "✅ Hoàn thành",
-      "note": "Đã nộp báo cáo nhóm  nhưng chưa nộp trên GGClass do lỗi hệ thống + Đăng bài làm trên github nhóm và cá nhân"
-    },
-    {
-      "week": "WEEK 5 (29/09/2025 - 05/10/2025)",
-      "task": "- Lab03: Local Search",
-      "status": "✅ Hoàn thành",
-      "note": ""
-    }
-  ]
-  
+  {
+    "week": "WEEK 1 (01/09/2025 - 07/09/2025)",
+    "task": "...",
+    "status": "⏳ Chưa bắt đầu",
+    "note": "..."
+  },
+  {
+    "week": "WEEK 2 (08/09/2025 - 14/09/2025)",
+    "task": "...",
+    "status": "⏳ Chưa bắt đầu",
+    "note": "..."
+  },
+  {
+    "week": "WEEK 3 (22/09/2025 - 28/09/2025)",
+    "task": "- Ex1: Tìm hiểu và trả lời câu hỏi trong phần 1 + 2 + 3 (nhóm) - Làm tổng hợp nội dung",
+    "status": "✅ Hoàn thành",
+    "note": "Đã nộp báo cáo nhóm + Đăng bài làm trên github nhóm và cá nhân"
+  },
+  {
+    "week": "WEEK 4 (29/09/2025 - 5/10/2025)",
+    "task": "- Lab02: Search (tt)",
+    "status": "✅ Hoàn thành",
+    "note": "Đã nộp báo cáo nhóm  nhưng chưa nộp trên GGClass do lỗi hệ thống + Đăng bài làm trên github nhóm và cá nhân"
+  },
+  {
+    "week": "WEEK 5 (6/09/2025 - 12/10/2025)",
+    "task": "- Lab03: Local Search",
+    "status": "✅ Hoàn thành",
+    "note": ""
+  },
+  {
+    "week": "WEEK 6 (13/09/2025 - 25/10/2025)",
+    "task": "- Lab04 - games with search uncertainty & lab05 - CSPs",
+    "status": "⏳....",
+    "note": "..."
+  }
+]
