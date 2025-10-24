@@ -22,6 +22,7 @@ PROCESS_END = "<!-- PROCESS_END -->"
 
 def generate_structure(root="."):
     ignore = {".git", "__pycache__", ".ipynb_checkpoints", "venv", "node_modules"}
+    ignore_exts = {".zip"}  # ⚡ Bỏ qua các file .zip
     
     def _tree(dir_path, prefix=""):
         """Hàm đệ quy tạo chuỗi cây thư mục"""
